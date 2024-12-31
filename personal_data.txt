@@ -1,0 +1,110 @@
+
+[DADOS PESSOAIS DOS CLIENTES DA REXD]
+-----------------------------------------------
+[CLIENTE]
+Nome: João Silva
+Cidade: Santos - SP
+Celular: (19) 978361241
+CPF: 123.456.789-09
+Email: joao.silva@email.com
+
+[HISTÓRICO DE TRANSAÇÕES]
+Transação ID: 107654321
+Data: 20/05/2024 - 13:21
+Tipo: Transferência
+Valor: R$ 300,00
+
+[CONTA BANCÁRIA]
+Conta: 12345-6
+Agência: 0012
+Saldo Atual: R$ 2.810,00
+-----------------------------------------------
+[CLIENTE]
+Nome: José Hauer	
+Cidade: Curitiba - PR
+Celular: (41) 988765432
+CPF: 987.654.321-01
+Email: zehauer82@gmail.com
+
+[HISTÓRICO DE TRANSAÇÕES]
+Transação ID: 114556879
+Data: 20/05/2024 - 18:45
+Tipo: Transferência
+Valor: R$ 600,00
+
+[CONTA BANCÁRIA]
+Conta: 23456-7
+Agência: 0023
+Saldo Atual: R$ 4.170,00
+-----------------------------------------------
+[CLIENTE]
+Nome: Maria Eliza Crispim	
+Cidade: Anápolis - GO
+Celular: (62) 988765433
+CPF: 234.567.891-03
+Email: marieliza@gmail.com
+
+[HISTÓRICO DE TRANSAÇÕES]
+Transação ID: 124354180
+Data: 10/06/2024 - 14:11
+Tipo: Transferência
+Valor: R$ 900,00
+
+[CONTA BANCÁRIA]
+Conta: 34567-8
+Agência: 0046
+Saldo Atual: R$ 5.120,00
+-----------------------------------------------
+[CLIENTE]
+Nome: Pedro Gonçalves
+Cidade: Belo Horizonte - MG
+Celular: (31) 912735638
+CPF: 345.678.942-04
+Email: pedrogon@icloud.com
+
+[HISTÓRICO DE TRANSAÇÕES]
+Transação ID: 134354119
+Data: 16/07/2024 - 11:30
+Tipo: Depósito
+Valor: R$ 1.500,00
+
+[CONTA BANCÁRIA]
+Conta: 45678-9
+Agência: 0081
+Saldo Atual: R$ 6.550,00
+-----------------------------------------------
+[CLIENTE]
+Nome: Lucas Capri
+Cidade: Cabo Frio - RJ
+Celular: (22) 951393846
+CPF: 465.187.923-08
+Email: lucapri@email.com
+
+[HISTÓRICO DE TRANSAÇÕES]
+Transação ID: 141755332
+Data: 13/09/2024 - 09:10
+Tipo: Transferência
+Valor: R$ 850,00
+
+[CONTA BANCÁRIA]
+Conta: 23456-9
+Agência: 0029
+Saldo Atual: R$ 2.810,00
+-----------------------------------------------
+[CLIENTE]
+Nome: Paulo Facheti
+Cidade: Camboriú - SC
+Celular: (47) 921356283
+CPF: 617.255.146-09
+Email: paulofac@email.com
+
+[HISTÓRICO DE TRANSAÇÕES]
+Transação ID: 153275338
+Data: 13/11/2024 - 10:40
+Tipo: Depósito
+Valor: R$ 850,00
+
+[CONTA BANCÁRIA]
+Conta: 43276-2
+Agência: 0031
+Saldo Atual: R$ 6.970,00
